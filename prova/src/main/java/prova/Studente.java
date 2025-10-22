@@ -25,4 +25,7 @@ public class Studente {
 	public void setCognome(String cognome) {
 		this.cognome = cognome;
 	}
+	public void metodoAlberto(){
+		System.out.println("Ma serve sta cosa?");
+	}
 }
